@@ -8,4 +8,5 @@
 
 # Blog posts                                                  
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Resume Challenge &lpar;AWS&rpar;](https://dev.to/tahayagizguler/cloud-resume-challenge-aws-4ghf)
 <!-- BLOG-POST-LIST:END -->
