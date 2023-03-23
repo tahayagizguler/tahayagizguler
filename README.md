@@ -18,6 +18,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastadon Bot with AWS Lambda, S3, CloudWatch, and SSM](https://dev.to/tahayagizguler/mastadon-bot-with-aws-lambda-s3-cloudwatch-and-ssm-2bmf)
 - [Cloud Resume Challenge &lpar;AWS&rpar;](https://dev.to/tahayagizguler/cloud-resume-challenge-aws-4ghf)
 <!-- BLOG-POST-LIST:END -->
 # You can visit my website [here](https://tahayagizguler.tech).
