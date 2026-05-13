@@ -18,6 +18,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Email Routing Agent with N8N, OpenRouter, and PostgreSQL](https://dev.to/tahayagizguler/building-an-ai-powered-email-routing-agent-with-n8n-openrouter-and-postgresql-12ga)
 - [Claude Code&#39;un Gücünü, Anthropic API Bağımlılığı Olmadan Ücretsiz Modellerle &lpar;OpenRouter&rpar; Kullanmak](https://dev.to/tahayagizguler/claude-codeun-gucunu-anthropic-api-bagimliligi-olmadan-ucretsiz-modellerle-openrouter-kullanmak-4fim)
 - [DevOps Pipeline: Go Uygulamasından Kubernetes’e Sürekli Entegrasyon](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
 - [Mastadon Bot with AWS Lambda, S3, CloudWatch, and SSM](https://dev.to/tahayagizguler/mastadon-bot-with-aws-lambda-s3-cloudwatch-and-ssm-2bmf)
