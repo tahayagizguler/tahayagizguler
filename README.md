@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋🏾 I'm Taha Yağız Güler</h1>  
+<h1 align="center">Hi 👋  I'm Taha Yağız Güler!</h1>  
 
-<h3 align="center">I'm exploring Cloud Tech and DevOps and I like to write in Python and GO. 🐍 ☁️🌟.</h3>
-
+<h3 align="center">DevOps Engineer • Cloud Native • AI Workflows.</h3>
+<p align="center">
+Building scalable infrastructure, automating everything, and exploring intelligent systems.
+</p>
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/tahayagizguler">
-      <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-    </a>
-</p>
 
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white)](https://tahayagizguler.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahayagizguler)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tahayagizguler)
+
+</div>
 
 
 
@@ -25,4 +30,3 @@
 - [Mastadon Bot with AWS Lambda, S3, CloudWatch, and SSM](https://dev.to/tahayagizguler/mastadon-bot-with-aws-lambda-s3-cloudwatch-and-ssm-2bmf)
 - [Cloud Resume Challenge &lpar;AWS&rpar;](https://dev.to/tahayagizguler/cloud-resume-challenge-aws-4ghf)
 <!-- BLOG-POST-LIST:END -->
-# You can visit my website [here](https://tahayagizguler.cloud).
