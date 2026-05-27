@@ -23,6 +23,8 @@ Building scalable infrastructure, automating everything, and exploring intellige
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Container İçine Giremiyorum — Ve Bu İyi Bir Şey: Distroless Image&#39;lar](https://dev.to/tahayagizguler/container-icine-giremiyorum-ve-bu-iyi-bir-sey-distroless-imagelar-hik)
+- [Kubernetes Probe&#39;larını Bozarak Öğrenmek — Liveness, Readiness ve Startup](https://dev.to/tahayagizguler/kubernetes-probelarini-bozarak-ogrenmek-liveness-readiness-ve-startup-3meh)
 - [Terraform + Terragrunt + Ansible: A Hands-On Learning Journey](https://dev.to/tahayagizguler/terraform-terragrunt-ansible-a-hands-on-learning-journey-jed)
 - [Building an AI-Powered Email Routing Agent with N8N, OpenRouter, and PostgreSQL](https://dev.to/tahayagizguler/building-an-ai-powered-email-routing-agent-with-n8n-openrouter-and-postgresql-12ga)
 - [Claude Code&#39;un Gücünü, Anthropic API Bağımlılığı Olmadan Ücretsiz Modellerle &lpar;OpenRouter&rpar; Kullanmak](https://dev.to/tahayagizguler/claude-codeun-gucunu-anthropic-api-bagimliligi-olmadan-ucretsiz-modellerle-openrouter-kullanmak-4fim)
