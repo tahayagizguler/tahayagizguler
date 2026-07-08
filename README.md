@@ -23,6 +23,7 @@ Building scalable infrastructure, automating everything, and exploring intellige
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kendi Mattermost Sunucunuzu Kurup GitHub Actions ile CI/CD Bildirim Botu Yapmak](https://dev.to/tahayagizguler/kendi-mattermost-sunucunuzu-kurup-github-actions-ile-cicd-bildirim-botu-yapmak-4okp)
 - [AWS VPC Networking — Public Subnet, Private Subnet ve 3-Tier Mimari](https://dev.to/tahayagizguler/aws-vpc-networking-public-subnet-private-subnet-ve-3-tier-mimari-1p7g)
 - [Prometheus ve Grafana&#39;yı Derinlemesine Anlamak — TSDB, PromQL ve Custom Exporter](https://dev.to/tahayagizguler/prometheus-ve-grafanayi-derinlemesine-anlamak-tsdb-promql-ve-custom-exporter-1enp)
 - [Container İçine Giremiyorum — Ve Bu İyi Bir Şey: Distroless Image&#39;lar](https://dev.to/tahayagizguler/container-icine-giremiyorum-ve-bu-iyi-bir-sey-distroless-imagelar-hik)
@@ -32,5 +33,4 @@ Building scalable infrastructure, automating everything, and exploring intellige
 - [Claude Code&#39;un Gücünü, Anthropic API Bağımlılığı Olmadan Ücretsiz Modellerle &lpar;OpenRouter&rpar; Kullanmak](https://dev.to/tahayagizguler/claude-codeun-gucunu-anthropic-api-bagimliligi-olmadan-ucretsiz-modellerle-openrouter-kullanmak-4fim)
 - [DevOps Pipeline: Go Uygulamasından Kubernetes’e Sürekli Entegrasyon](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
 - [Mastadon Bot with AWS Lambda, S3, CloudWatch, and SSM](https://dev.to/tahayagizguler/mastadon-bot-with-aws-lambda-s3-cloudwatch-and-ssm-2bmf)
-- [Cloud Resume Challenge &lpar;AWS&rpar;](https://dev.to/tahayagizguler/cloud-resume-challenge-aws-4ghf)
 <!-- BLOG-POST-LIST:END -->
