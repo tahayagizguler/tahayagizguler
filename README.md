@@ -23,6 +23,7 @@ Building scalable infrastructure, automating everything, and exploring intellige
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Destekli Full-Stack Geliştirme: Servisler Arası İletişim ve Dockerization](https://dev.to/tahayagizguler/ai-destekli-full-stack-gelistirme-servisler-arasi-iletisim-ve-dockerization-1o9j)
 - [Mattermost Kurulumu, Zoom Entegrasyonu ve CI/CD Pipeline Bildirimleri](https://dev.to/tahayagizguler/mattermost-kurulumu-zoom-entegrasyonu-ve-cicd-pipeline-bildirimleri-e8b)
 - [Bildirimleri Otomatikleştirmek: GitHub ve Sunucu İzleme için Discord Botu](https://dev.to/tahayagizguler/bildirimleri-otomatiklestirmek-github-ve-sunucu-izleme-icin-discord-botu-30ml)
 - [AWS VPC Networking — Public Subnet, Private Subnet ve 3-Tier Mimari](https://dev.to/tahayagizguler/aws-vpc-networking-public-subnet-private-subnet-ve-3-tier-mimari-1p7g)
@@ -32,5 +33,4 @@ Building scalable infrastructure, automating everything, and exploring intellige
 - [Terraform + Terragrunt + Ansible: A Hands-On Learning Journey](https://dev.to/tahayagizguler/terraform-terragrunt-ansible-a-hands-on-learning-journey-jed)
 - [Building an AI-Powered Email Routing Agent with N8N, OpenRouter, and PostgreSQL](https://dev.to/tahayagizguler/building-an-ai-powered-email-routing-agent-with-n8n-openrouter-and-postgresql-12ga)
 - [Claude Code&#39;un Gücünü, Anthropic API Bağımlılığı Olmadan Ücretsiz Modellerle &lpar;OpenRouter&rpar; Kullanmak](https://dev.to/tahayagizguler/claude-codeun-gucunu-anthropic-api-bagimliligi-olmadan-ucretsiz-modellerle-openrouter-kullanmak-4fim)
-- [DevOps Pipeline: Go Uygulamasından Kubernetes’e Sürekli Entegrasyon](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
 <!-- BLOG-POST-LIST:END -->
